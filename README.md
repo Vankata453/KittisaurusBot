@@ -74,4 +74,4 @@ Any contributions to the bot (including issues, feature requests, pull requests 
 
 # Feedback
 
-If you encounter any issues with the bot, have any suggestions or questions, you can post an issue here on GitHub or DM me on Discord at Vankata453#4832!
+If you encounter any issues with the bot, have any suggestions or questions, you can [post an issue here on GitHub](https://github.com/Vankata453/KittisaurusBot/issues) (if it doesn't exist already) or DM me on Discord at Vankata453#4832!
