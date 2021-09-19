@@ -16,10 +16,10 @@ or join an existing one that features it!
 1. Make sure you have your [Discord Application](https://discord.com/developers/applications) created with an initialized bot.
 2. Install Node.js version **16.6 or higher** on your desired host (if you don't have it already).
 3. Clone (or download) the repository.
-4. Create a `.env` file and paste in the following:
+4. Create a `.env` file, paste and fill in the following:
 ```
-DISCORD_TOKEN={your-bot-token}
-CLIENT_ID={your-bots-client-id}
+DISCORD_TOKEN={your-bot's-token}
+CLIENT_ID={your-bot's-client-id}
 ```
 5. Run `npm install` to install the needed libraries for the bot.
 6. Run `node deploy-commands.js` to deploy the bot's commands.
@@ -57,9 +57,9 @@ A list of all currently supported commands by KittisaurusBot.
 # Credits
 
 **Images:**
-* This bot uses some images and gifs from Google Images. Links to them are available inside of the 
-commands' files (inside of the `commands` folder).
-* [Imgur.com](https://imgur.com) is used to host the other part of the images and gifs (for now).
+* This bot uses some images and GIFs from Google Images. Links to them are available inside of the 
+respective command's file (inside of the `commands` folder).
+* [Imgur.com](https://imgur.com) is used to host the other part of the images and GIFs (for now).
  
 **Code:**
 * [Scratch for Discord](https://github.com/Androz2091/scratch-for-discord) was used for building the bot before it was worked on with code. 
@@ -70,7 +70,7 @@ commands' files (inside of the `commands` folder).
 
 # Contribution
 
-Any contributions to the bot (including issues, feature requests, pull requests or others) are very appreciated and welcome!
+Any contributions to the bot (including issues, feature requests, pull requests or others) are always very appreciated and welcome!
 
 # Feedback
 
