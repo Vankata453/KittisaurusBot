@@ -27,6 +27,8 @@ CLIENT_ID={your-bot's-client-id}
 
 After you make changes to the bot, terminate the running bot process (`Ctrl+C`) and start the bot again (`npm start` or `node bot.js`).
 
+If you make changes to the bot's commands, run `node deploy-commands.js` again to register the changes. (It may take a few minutes for the commands to be usable again.)
+
 # Commands
 
 A list of all currently supported commands by KittisaurusBot.
