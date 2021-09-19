@@ -1,0 +1,23 @@
+{
+  "name": "KittisaurusBot",
+  "version": "1.0.0",
+  "description": "A bot that allows users to have fun with pictures and quotes of the 10 Kittisaurus cats + more!",
+  "main": "bot.js",
+  "keywords": [],
+  "author": "Vankata453",
+  "repository": "https://github.com/Vankata453/KittisaurusBot",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^8.1.0"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
