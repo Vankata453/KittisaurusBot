@@ -1,6 +1,6 @@
 # KittisaurusBot
 
-A Discord bot that allows users to have fun with pictures and quotes of the 10 Kittisaurus cats + more! 
+A Discord.js bot that allows users to have fun with pictures and quotes of the 10 Kittisaurus cats + more!
 
 # How do I use it?
 
